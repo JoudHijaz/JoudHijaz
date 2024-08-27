@@ -2,4 +2,4 @@
 
 👀 I’m interested in Technology..
 
-🌱 I’m currently a compter engineering student.. ...
+🌱 I’m currently learning Flutter
